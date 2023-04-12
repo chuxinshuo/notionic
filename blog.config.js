@@ -1,8 +1,8 @@
 const BLOG = {
   title: 'Notionic',
   author: '牧心',
-  email: 'kafeiyucha@126.come',
-  link: 'https://www.muxinji.come',
+  email: 'kafeiyucha@126.com',
+  link: 'https://www.muxinji.com',
   newsletter: 'Notionic Weekly',
   description: 'A static blog build on top of Notion and Next.js',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
