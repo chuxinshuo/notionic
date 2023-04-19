@@ -4,7 +4,7 @@ const BLOG = {
   email: 'kafeiyucha@126.com',
   link: 'https://www.muxinji.com',
   newsletter: 'Notionic Weekly',
-  description: 'A static blog build on top of Notion and Next.js',
+  description: '「牧心」者，以心为畜，用爱视之，使之平静安宁也。',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
