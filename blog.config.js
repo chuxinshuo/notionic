@@ -1,10 +1,10 @@
 const BLOG = {
-  title: '牧心记',
+  title: 'Muxin',
   author: '牧心',
   email: 'kafeiyucha@126.com',
   link: 'https://www.muxinji.com',
   newsletter: 'Notionic Weekly',
-  description: 'Use the heart as a guide, view with love, and bring peace and tranquility to it.',
+  description: 'Use the heart as a guide, view with love, and bring peace and tranquility to it',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
