@@ -30,8 +30,8 @@ const BLOG = {
   defaultCover: '/cover.jpg',
   socialLink: {
     twitter: 'https://twitter.com/izuolan',
-    github: 'https://github.com/izuolan',
-    telegram: 'https://t.me/zuolan'
+    github: 'https://github.com/chuxinshuo',
+    telegram: 'https://t.me/muxinji'
   },
   seo: {
     keywords: ['Notionic', '牧心', 'Blog'],
