@@ -153,7 +153,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
 
     window.addEventListener('scroll', () => {
       if (window.pageYOffset > 400) {
-        setShowTitle(true)
+        setShowTitle(false)
       } else {
         setShowTitle(false)
       }
